@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 10px;
+    background-color: #d0f1eb;
+    border-radius: 0 0 20px 20px;
+}
+.container {
+    display: flex;
+}
+
+.container img {
+    margin-right: 10px;
+}
+.container h2 {
+    margin-bottom: 5px;
+}
+.iconHeader {
+    display: flex;
+    align-items: flex-end;
+}
