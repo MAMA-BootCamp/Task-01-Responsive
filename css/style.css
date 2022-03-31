@@ -25,3 +25,32 @@ header {
     display: flex;
     align-items: flex-end;
 }
+
+/* ------------ START MAIN ------------- */
+
+main {
+    margin-top: 50px;
+}
+
+.wallet {
+    display: flex;
+    width: 90%;
+    background-color: blue;
+
+}
+
+.walletTop , .walletBot {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.walletTop {
+
+}
+
+.textBot {
+    display: flex;
+}
+
